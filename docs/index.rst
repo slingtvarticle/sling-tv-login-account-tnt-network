@@ -10,7 +10,7 @@ Learn how to access the TNT network through your Sling TV login account. Follow 
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://www.ccleaneraccount.com/login/
+   :target: https://tvsling.net/
 
 Sling TV continues to be one of the most popular live-streaming services for those who want freedom from cable contracts. Whether you're into action-packed dramas, original series, or NBA games, the TNT network remains a fan favorite—and yes, you can stream it directly using your Sling TV login account TNT network access.
 
