@@ -6,7 +6,7 @@ How Do I Watch TNT on Sling TV with My Login Account?
    :caption: Contents:
 Learn how to access the TNT network through your Sling TV login account. Follow this simple guide to stream TNT shows and live sports instantly.
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
