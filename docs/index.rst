@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://tvsling.net">
+
 How Do I Watch TNT on Sling TV with My Login Account?
 ============================================
  
